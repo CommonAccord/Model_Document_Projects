@@ -6,7 +6,7 @@ The ideal for legal forms is that they be unrestricted, curated and rated, with 
 
 At bottom a few links to other lists.
 
-University Research Related | |  
+University Research Related |Types |Other  
 --------|-----------------|-----
 http://www.brown.edu/research/policies-and-compliance|
 http://www.cctec.cornell.edu/forms/index.php|Cornell Tech Transfer folks
