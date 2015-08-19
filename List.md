@@ -61,7 +61,7 @@ http://www.techstars.com/docs/|Startup docs from a leading incubator ecosystem
 https://github.com/twitter/innovators-patent-agreement|Twitter non-assertion patent assignment.
 http://web2rights.org.uk/documents.html#a3|Seems inactive, but a lot of analytical work.
 http://wga.org/content/default.aspx?id=1027|Writers Guild
-http://whichdraft.com/browse_clause_bank.php
+http://whichdraft.com/browse_clause_bank.php|
 http://library.unidroit.org/English/links_eng.htm|International institute for harmonization, mostly operating by legislative suggestion.
 http://www.uslegalforms.com/|Huge collection.  Paywall.
 http://ycombinator.com/seriesaa/
