@@ -32,9 +32,9 @@ https://www.clerky.com/|Integrated service for startup incorporation docs and fi
 http://web.law.columbia.edu/keep-your-copyrights/contracts|Columbia Law School project re authors
 http://www.law.cornell.edu/uniform/vol9.html|Not exactly legal forms, but an index of uniform laws.  Same impulse, different medium. And gets the great LII site into this list.
 http://defense.gov/landing/forms_directives.aspx|Big.
-http://docracy.com
+http://docracy.com|
 http://fco.gov.uk/en/about-us/working-for-us/contracts-procurement/supplierstendereing|UK - Govt -- Foreign and Commonwealth Office Procurement:
-http://forms.findlaw.com
+http://forms.findlaw.com|
 http://formswift.com/|from Ads by Google at NYT home page (are u watching me?)|  Doc assembly base.http://fi.co/contents/59#|Founder Institute Documents (their own application and Early-Stage funding
 http://gafta.com/index.php?page=contracts|UK-based Grain Association -- has large inventory of contracts, but behind member sign-in wall.
 http://www.google.com/patents/opnpledge/pledge/|Open Patent Pledge
