@@ -2,7 +2,7 @@ This is begun from a list that was at beta.commonaccord.org.
 
 This list is arbitrary and incomplete.  It should be expressed as a graph.  The goal here is to start.  Note, too, that it is all in English and very US-centric.  There is a rest of world out there.
 
-The ideal for legal forms is that they be unrestricted, curated and rated, with links to authors.  Forums instead of forms.
+The ideal for legal forms is that they be unrestricted, curated and rated, updated (maintained), with traceable origins and versions, links to authors.  Forums instead of forms. Like open source software.
 
 At bottom a few links to other lists.
 
