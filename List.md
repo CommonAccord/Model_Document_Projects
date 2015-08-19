@@ -6,6 +6,11 @@ The ideal for legal forms is that they be unrestricted, curated and rated, with 
 
 At bottom a few links to other lists.
 
+Recent Additions|
+--------------|---------|------
+https://github.com/UMKC-Law/DataSharingAgreement/tree/master/AgreementTemplates|List of Data Sharing Agreements compiled in connection with project.
+
+
 University Research Related |Types|Other  
 --------|-----------------|-----
 http://www.brown.edu/research/policies-and-compliance|
