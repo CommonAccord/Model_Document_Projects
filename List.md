@@ -22,7 +22,7 @@ Other Model Docs| Types | Other
 -----------|-----|------------------
 http://www.clausebuilder.org</td><td>American Arbitration Assn| (adr.org) Clause Building Tool
 http://abanet.org/abastore/index.cfm?section=main&fm=Product.AddToCart&pid=5070636| ABA Model Share Purchase Agreement
-http://acc.com/contracts/draftingbenchmarking.cfm</td><td>Association of Corporate Counsel sample documents and KM Standards project - member sign-in wall</td></tr>
+http://acc.com/contracts/draftingbenchmarking.cfm|Association of Corporate Counsel sample documents and KM Standards project - member sign-in wall
 http://aia.org/contractdocs/index.htm|AIA Docs on Demand
 http://aipn.org|Petroleum industry. Member sign-in wall.
 http://astaspice.org/i4a/pages/index.cfm?pageid=1|Spice Association Model Contracts - behind member login wall
