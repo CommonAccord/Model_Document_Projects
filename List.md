@@ -8,7 +8,6 @@ At bottom a few links to other lists.
 
 University Research Related |
 --------|-----------------|-----
-
 http://www.brown.edu/research/policies-and-compliance|
 http://www.cctec.cornell.edu/forms/index.php|Cornell Tech Transfer folks
 
