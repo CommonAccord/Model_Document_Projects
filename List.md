@@ -55,7 +55,7 @@ http://rmmlf.org|
 http://www.rocketlawyer.com/legal-documents-forms.rl|Integrated with service.  Paywall.
 http://sagaftra.org/production-center|Screen Actors - documents, forms, signature
 http://www.SeriesSeed.com|Seed round financing documents.
-http://sfwa.org/category/sample-contracts/
+http://sfwa.org/category/sample-contracts/|
 http://supplier-connection.net|Effort by IBM and other major companies to consolidate the application process to become a supplier to a large corporation.
 http://www.techstars.com/docs/|Startup docs from a leading incubator ecosystem
 https://github.com/twitter/innovators-patent-agreement|Twitter non-assertion patent assignment.
