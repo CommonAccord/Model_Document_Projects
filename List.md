@@ -10,6 +10,12 @@ Recent Additions|
 --------------|---------|------
 https://github.com/UMKC-Law/DataSharingAgreement/tree/master/AgreementTemplates|List of Data Sharing Agreements compiled in connection with project.
 
+Startup|
+---------|---|----
+http://ironcladapp.com/|startup docs - Jason Boehmig - YCombinator - documents and workflow
+https://www.clerky.com/|Integrated service for startup incorporation docs and filing.
+
+
 
 University Research Related |Types|Other  
 --------|-----------------|-----
@@ -33,7 +39,6 @@ http://aipn.org|Petroleum industry. Member sign-in wall.
 http://astaspice.org/i4a/pages/index.cfm?pageid=1|Spice Association Model Contracts - behind member login wall
 http://atanet.org/careers/model_contract.php|AIPN --- Petroleum Industry.  A well developed set, with participation by lawyers from major companies and major law firms.  Model Petroleum Agreements
 http://businessservices.berkeley.edu/contracts|
-https://www.clerky.com/|Integrated service for startup incorporation docs and filing.
 http://web.law.columbia.edu/keep-your-copyrights/contracts|Columbia Law School project re authors
 http://www.law.cornell.edu/uniform/vol9.html|Not exactly legal forms, but an index of uniform laws.  Same impulse, different medium. And gets the great LII site into this list.
 http://defense.gov/landing/forms_directives.aspx|Big.
