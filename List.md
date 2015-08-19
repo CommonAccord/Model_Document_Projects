@@ -10,13 +10,13 @@ University Research Related | |
 --------|-----------------|-----
 http://www.brown.edu/research/policies-and-compliance|
 http://www.cctec.cornell.edu/forms/index.php|Cornell Tech Transfer folks
+http://research.ucdavis.edu/f/f| 
+http://web.mit.edu/tlo/www/misc/forms.html|MIT Tech Licensing Office - NDAs, etc.
+http://www.grants.gov/web/grants/forms.html|Jumping off place for forms relating to government research grants
+http://otl.stanford.edu/industry/resources/industry_res.html|See the letter, above.
+http://kauffman.org/what-we-do/research/2012/07/facilitating-the-commercialization-of-university-innovation|Kauffman Foundation -- sponsored a university to start-up standard tech transfer agreement.
+http://www.ott.nih.gov/forms-model-agreements|NIH Models|see [[Ott.nih.gov/License_Patent_Exclusive_Agt_Library]]
 
-<tr><td>http://research.ucdavis.edu/f/f</td><td></td></tr>
-<tr><td>http://web.mit.edu/tlo/www/misc/forms.html   </td><td>MIT Tech Licensing Office - NDAs, etc.</td></tr>
-<tr><td>http://www.grants.gov/web/grants/forms.html</td><td>Jumping off place for forms relating to government research grants</td></tr>
-<tr><td>http://otl.stanford.edu/industry/resources/industry_res.html</td><td>See the letter, above.</td>
-<tr><td>http://kauffman.org/what-we-do/research/2012/07/facilitating-the-commercialization-of-university-innovation    </td><td>Kauffman Foundation -- sponsored a university to start-up standard tech transfer agreement.  </td></tr>
-<tr><td>http://www.ott.nih.gov/forms-model-agreements</td><td>NIH Models -- see [[Ott.nih.gov/License_Patent_Exclusive_Agt_Library]]</td></tr>
 <tr><td>http://spo.berkeley.edu/forms/ucforms.html</td></tr>
 <td>http://research.ucdavis.edu/resources/forms/</td><td></td></table>
 
