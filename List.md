@@ -6,11 +6,11 @@ The ideal for legal forms is that they be unrestricted, curated and rated, with 
 
 At bottom a few links to other lists.
 
-Recent Additions|
+Recent Additions| Comments
 --------------|---------|------
 https://github.com/UMKC-Law/DataSharingAgreement/tree/master/AgreementTemplates|List of Data Sharing Agreements compiled in connection with project.
 
-Startup|
+Startup| Comments
 ---------|---|----
 http://ironcladapp.com/|startup docs - Jason Boehmig - YCombinator - documents and workflow
 https://www.clerky.com/|Integrated service for startup incorporation docs and filing.
