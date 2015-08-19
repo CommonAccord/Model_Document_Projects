@@ -20,7 +20,7 @@ https://www.clerky.com/|Integrated service for startup incorporation docs and fi
 University Research Related |Types|Other  
 --------|-----------------|-----
 http://www.brown.edu/research/policies-and-compliance|
-http://www.cctec.cornell.edu/forms/index.php|Cornell Tech Transfer folks
+http://www.ctl.cornell.edu/inventors/index.php|Cornell Tech Transfer folks
 http://web.mit.edu/tlo/www/misc/forms.html|MIT Tech Licensing Office - NDAs, etc.
 http://www.grants.gov/web/grants/forms.html|Jumping off place for forms relating to government research grants
 http://otl.stanford.edu/industry/resources/industry_res.html|See the letter, above.
