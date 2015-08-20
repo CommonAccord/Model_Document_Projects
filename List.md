@@ -1,19 +1,29 @@
-This is begun from a list that was at beta.commonaccord.org.
+This is begun from a list that was at beta.commonaccord.org (an earlier CommonAccord version based on Mediawiki). 
 
-This list is arbitrary and incomplete.  It should be expressed as a graph.  The goal here is to start.  Note, too, that it is all in English and very US-centric.  There is a rest of world out there.
+This list is arbitrary and incomplete.  It should be expressed as a database - perhaps a graph database.  The goal here is to start.  Note, too, that it is so far all in English and very US-centric.  There is a rest of world out there.
 
-The ideal for legal forms is that they be unrestricted, curated and rated, updated (maintained), with traceable origins and versions, links to authors.  Forums instead of forms. Like open source software.
+Listing here does not indicate approval, neither by us nor by the targets.  
 
-At bottom a few links to other lists.
+The ideal for legal forms is that they be unrestricted, curated and rated, updated (maintained), with traceable origins and versions, links to authors, continuing life, strong communities of contributors.  Forums instead of forms. Like open source software.
 
-Recent Additions| Comments
---------------|---------|------
+It does NOT include sites focused on laws, regulations, court decisions and other "primary" materials.  These are very important, and an obvious complement that may someday largely merge (they, too, are "authored"), but beyond current scope.  (If you are active in that field and want to carry a thread that direction, please feel free to ping or pull-request us.) 
+
+
+Folks moving stuff on to GitHub|Short Comment|Longer Comment
+--|---|--
+https://github.com/HumanDynamics/|MIT, @dazzaji|Collection of materials
+https://github.com/commonform|Interesting, ambitious effort at both text and automation
+https://github.com/papertrail/legal-docs|
 https://github.com/UMKC-Law/DataSharingAgreement/tree/master/AgreementTemplates|List of Data Sharing Agreements compiled in connection with project.
 
-Startup| Comments
+
+
+
+Startup| Short Comment|Longer Comment
 ---------|---|----
 http://ironcladapp.com/|startup docs - Jason Boehmig - YCombinator - documents and workflow
 https://www.clerky.com/|Integrated service for startup incorporation docs and filing.
+http://valcu.com|Ambitious automation and legal content|incorporation, capitalization, etc.
 
 
 
