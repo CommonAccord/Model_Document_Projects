@@ -25,6 +25,10 @@ http://ironcladapp.com/|startup docs - Jason Boehmig - YCombinator - documents a
 https://www.clerky.com/|Integrated service for startup incorporation docs and filing.
 http://valcu.com|Ambitious automation and legal content|incorporation, capitalization, etc.
 http://www.ycombinator.com/resources/#documents|Capitalization, SaaS|
+https://www.cooleygo.com/documents/|Startup docs, automation|from one of the leading Silicon Valley firms
+https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/termsheet-convertible.htm|(and other docs referenced there) Term Sheet generator and other startup docs|From one of the leading Silicon Valley firms
+http://www.github/SeriesSeed|Seed round financing documents.|From Fenwick & West (been a while since activity at GitHub)
+http://www.shoobx.com/|Automation, dashboard approach with captive(? correct me!) documents.
 
 
 French|Short Comment|Longer Comment
@@ -78,7 +82,6 @@ http://opensource.org/licenses|A paradigm of codified contract text is open sour
 http://rmmlf.org|
 http://www.rocketlawyer.com/legal-documents-forms.rl|Integrated with service.  Paywall.
 http://sagaftra.org/production-center|Screen Actors - documents, forms, signature
-http://www.SeriesSeed.com|Seed round financing documents.
 http://sfwa.org/category/sample-contracts/|
 http://supplier-connection.net|Effort by IBM and other major companies to consolidate the application process to become a supplier to a large corporation.
 http://www.techstars.com/docs/|Startup docs from a leading incubator ecosystem
