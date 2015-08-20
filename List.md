@@ -24,8 +24,12 @@ Startup| Short Comment|Longer Comment
 http://ironcladapp.com/|startup docs - Jason Boehmig - YCombinator - documents and workflow
 https://www.clerky.com/|Integrated service for startup incorporation docs and filing.
 http://valcu.com|Ambitious automation and legal content|incorporation, capitalization, etc.
+http://www.ycombinator.com/resources/#documents|Capitalization, SaaS|
 
 
+French|Short Comment|Longer Comment
+---|---|---
+https://github.com/jurismatic/jurismatic|Starup docs|Partly automated at: http://fr.commonaccord.org/index.php?action=list&file=/FR/Jurismatic/
 
 University Research Related |Types|Other  
 --------|-----------------|-----
@@ -84,7 +88,6 @@ http://wga.org/content/default.aspx?id=1027|Writers Guild
 http://whichdraft.com/browse_clause_bank.php|
 http://library.unidroit.org/English/links_eng.htm|International institute for harmonization, mostly operating by legislative suggestion.
 http://www.uslegalforms.com/|Huge collection.  Paywall.
-http://ycombinator.com/seriesaa/|
 
 Some other Lists of Lists|||
 ----|---|---
