@@ -10,7 +10,7 @@ It does NOT include sites focused on laws, regulations, court decisions and othe
 
 
 Folks moving stuff on to GitHub|Short Comment|Longer Comment
---|---|--
+---|---|---
 https://github.com/HumanDynamics/|MIT, @dazzaji|Collection of materials
 https://github.com/commonform|Interesting, ambitious effort at both text and automation
 https://github.com/papertrail/legal-docs|
