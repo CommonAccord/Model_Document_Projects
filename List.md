@@ -20,9 +20,7 @@ https://github.com/UMKC-Law/DataSharingAgreement/tree/master/AgreementTemplates|
 
 
 Startup| Short Comment|Contact|Longer Comment
----|---|---|---
-
-
+---|---|---|---|--
 http://ironcladapp.com/|startup docs and automation, YCombinator|github.com/jboehmig|documents and workflow
 https://www.clerky.com/|Integrated service for startup incorporation docs and filing.
 http://valcu.com|Ambitious automation and legal content|incorporation, capitalization, etc.
