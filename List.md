@@ -1,6 +1,6 @@
 This is begun from a list that was at beta.commonaccord.org (an earlier CommonAccord version based on Mediawiki). 
 
-This list is arbitrary and incomplete.  It should be expressed as a database - perhaps a graph database.  The goal here is to start.  Note, too, that it is so far all in English and very US-centric.  There is a rest of world out there.
+This list is arbitrary and incomplete.  It should be expressed as a database - perhaps a graph database.  The goal here is to start.  Note, too, that it is so far nearly all in English and very US-centric.  There is a rest of world out there.
 
 Listing here does not indicate approval, neither by us nor by the targets.  
 
