@@ -9,19 +9,19 @@ The ideal for legal forms is that they be unrestricted, curated and rated, updat
 It does NOT include sites focused on laws, regulations, court decisions and other "primary" materials.  These are very important, and an obvious complement that may someday largely merge (they, too, are "authored"), but beyond current scope.  (If you are active in that field and want to carry a thread that direction, please feel free to ping or pull-request us.) 
 
 
-Folks moving stuff on to GitHub|Short Comment|Longer Comment
+Folks moving stuff on to GitHub: URL|Short Comment|Contact|Longer Comment
 ---|---|---
-https://github.com/HumanDynamics/|MIT, @dazzaji|Collection of materials
-https://github.com/commonform|Interesting, ambitious effort at both text and automation
-https://github.com/papertrail/legal-docs|
-https://github.com/UMKC-Law/DataSharingAgreement/tree/master/AgreementTemplates|List of Data Sharing Agreements compiled in connection with project.
+https://github.com/HumanDynamics/|MIT|github.com/dazzaji|Collection of materials
+https://github.com/commonform|Interesting, ambitious effort at both text and automation|
+https://github.com/papertrail/legal-docs||
+https://github.com/UMKC-Law/DataSharingAgreement/tree/master/AgreementTemplates|List of Data Sharing Agreements compiled in connection with project.|github.com/bryangw1
 
 
 
 
-Startup| Short Comment|Longer Comment
+Startup| Short Comment|Contact|Longer Comment
 ---------|---|----
-http://ironcladapp.com/|startup docs - Jason Boehmig - YCombinator - documents and workflow
+http://ironcladapp.com/|startup docs and automation, YCombinator|github.com/jboehmig|documents and workflow
 https://www.clerky.com/|Integrated service for startup incorporation docs and filing.
 http://valcu.com|Ambitious automation and legal content|incorporation, capitalization, etc.
 http://www.ycombinator.com/resources/#documents|Capitalization, SaaS|
