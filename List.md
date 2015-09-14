@@ -29,9 +29,7 @@ https://www.cooleygo.com/documents/|Startup docs, automation|from one of the lea
 https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/termsheet-convertible.htm|(and other docs referenced there) Term Sheet generator and other startup docs|From one of the leading Silicon Valley firms
 http://www.github/SeriesSeed|Seed round financing documents.|From Fenwick & West (been a while since activity at GitHub)
 http://www.shoobx.com/|Automation, dashboard approach with captive(? correct me!) documents.
-
-Privacy|Short Comment|Longer Comment
----|---|---|---
+<b>Privacy|Short Comment|Longer Comment</b>
 https://docs.google.com/document/d/1GpSEJCe79UqOz3vF_M7XkpB0Da_Up8QsJIWqMciCaW8/edit?pli=1|From http://platformresponsibility.info/?page_id=145|..|.. 
 https://prezi.com/xc8wc2wyaiqv/referentiel-design-your-privacy-des-cgu-aux-cgr/|.. |..|..
 
