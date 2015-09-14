@@ -30,17 +30,15 @@ https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/termsheet-convertibl
 http://www.github/SeriesSeed|Seed round financing documents.|From Fenwick & West (been a while since activity at GitHub)
 http://www.shoobx.com/|Automation, dashboard approach with captive(? correct me!) documents.
 
+Privacy|Short Comment|Longer Comment
+---|---|---|---
+https://docs.google.com/document/d/1GpSEJCe79UqOz3vF_M7XkpB0Da_Up8QsJIWqMciCaW8/edit?pli=1|From http://platformresponsibility.info/?page_id=145|..|.. 
+https://prezi.com/xc8wc2wyaiqv/referentiel-design-your-privacy-des-cgu-aux-cgr/|.. |..|..
+
 
 French|Short Comment|Longer Comment
 ---|---|---
 https://github.com/jurismatic/jurismatic|Starup docs|Partly automated at: http://fr.commonaccord.org/index.php?action=list&file=/FR/Jurismatic/
-
-
-Privacy|Short Comment|Longer Comment
----|---|---
-https://docs.google.com/document/d/1GpSEJCe79UqOz3vF_M7XkpB0Da_Up8QsJIWqMciCaW8/edit?pli=1|From http://platformresponsibility.info/?page_id=145| 
-https://prezi.com/xc8wc2wyaiqv/referentiel-design-your-privacy-des-cgu-aux-cgr/|.. |..
-
 
 
 University Research Related |Types|Other  
