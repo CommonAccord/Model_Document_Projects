@@ -21,6 +21,7 @@ https://github.com/UMKC-Law/DataSharingAgreement/tree/master/AgreementTemplates|
 
 Startup| Short Comment|Contact|Longer Comment
 ---|---|---|---|--
+http://www.effacts.com|integrated automation for complex contracting||
 http://ironcladapp.com/|startup docs and automation, YCombinator|github.com/jboehmig|documents and workflow
 https://www.clerky.com/|Integrated service for startup incorporation docs and filing.
 http://valcu.com|Ambitious automation and legal content|incorporation, capitalization, etc.
@@ -95,6 +96,7 @@ http://wga.org/content/default.aspx?id=1027|Writers Guild
 http://whichdraft.com/browse_clause_bank.php|
 http://library.unidroit.org/English/links_eng.htm|International institute for harmonization, mostly operating by legislative suggestion.
 http://www.uslegalforms.com/|Huge collection.  Paywall.
+
 
 Some other Lists of Lists|||
 ----|---|---
