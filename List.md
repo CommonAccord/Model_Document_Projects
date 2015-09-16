@@ -15,6 +15,7 @@ https://github.com/HumanDynamics/|MIT|github.com/dazzaji|Collection of materials
 https://github.com/commonform|Interesting, ambitious effort at both text and automation|
 https://github.com/papertrail/legal-docs||
 https://github.com/UMKC-Law/DataSharingAgreement/tree/master/AgreementTemplates|List of Data Sharing Agreements compiled in connection with project.|github.com/bryangw1
+http://www.legalese.io|open source orientation, on GitHub  -
 
 
 
