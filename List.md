@@ -45,7 +45,7 @@ University Research Related |Types|Other
 --------|-----------------|-----
 http://www.brown.edu/research/policies-and-compliance|
 http://www.ctl.cornell.edu/inventors/index.php|Cornell Tech Transfer folks
-http://web.mit.edu/tlo/www/misc/forms.html|MIT Tech Licensing Office - NDAs, etc.
+https://tlo.mit.edu/disclose-protect-your-intellectual-property/forms-protect-ip-rights|MIT Tech Licensing Office - NDAs, etc.
 http://www.grants.gov/web/grants/forms.html|Jumping off place for forms relating to government research grants
 http://otl.stanford.edu/industry/resources/industry_res.html|See the letter, above.
 http://kauffman.org/what-we-do/research/2012/07/facilitating-the-commercialization-of-university-innovation|Kauffman Foundation -- sponsored a university to start-up standard tech transfer agreement.
@@ -53,21 +53,16 @@ http://www.ott.nih.gov/forms-model-agreements|NIH Models|see [[Ott.nih.gov/Licen
 http://spo.berkeley.edu/forms/ucforms.html
 http://research.ucdavis.edu/resources/forms/
 
-Other Model Docs| Types | Other
+Other Model Docs| Organization | Other
 -----------|-----|------------------
 http://www.clausebuilder.org</td><td>American Arbitration Assn| (adr.org) Clause Building Tool
-http://abanet.org/abastore/index.cfm?section=main&fm=Product.AddToCart&pid=5070636| ABA Model Share Purchase Agreement
-http://acc.com/contracts/draftingbenchmarking.cfm|Association of Corporate Counsel sample documents and KM Standards project - member sign-in wall
-http://aia.org/contractdocs/index.htm|AIA Docs on Demand
-http://aipn.org|Petroleum industry. Member sign-in wall.
-http://astaspice.org/i4a/pages/index.cfm?pageid=1|Spice Association Model Contracts - behind member login wall
-http://atanet.org/careers/model_contract.php|AIPN --- Petroleum Industry.  A well developed set, with participation by lawyers from major companies and major law firms.  Model Petroleum Agreements
-http://businessservices.berkeley.edu/contracts|
-http://web.law.columbia.edu/keep-your-copyrights/contracts|Columbia Law School project re authors
+http://abanet.org/abastore/index.cfm?section=main&fm=Product.AddToCart&pid=5070636| ABA Model Share Purchase Agreement|http://www.commonaccord.org/index.php?action=list&file=G/ABA-MSPA-SPA-CmA/
+http://www.acc.com/search/index.cfm?term=&searchedFrom=Resource+Library&source=ACC+Resource+Library&materialTypeGroup=Forms%20%26%20Policies|Association of Corporate Counsel sample documents 
+https://www.aiacontracts.org/|American Institute of Architects
+http://aipn.org|Petroleum|AIPN --- Petroleum Industry.
 http://www.law.cornell.edu/uniform/vol9.html|Not exactly legal forms, but an index of uniform laws.  Same impulse, different medium. And gets the great LII site into this list.
-http://defense.gov/landing/forms_directives.aspx|Big.
+https://www.defense.gov/Resources/Forms-Directives/|Big.
 http://docracy.com|
-http://fco.gov.uk/en/about-us/working-for-us/contracts-procurement/supplierstendereing|UK - Govt -- Foreign and Commonwealth Office Procurement:
 http://forms.findlaw.com|
 http://formswift.com/|from Ads by Google at NYT home page (are u watching me?)|  Doc assembly base.http://fi.co/contents/59#|Founder Institute Documents (their own application and Early-Stage funding
 http://gafta.com/index.php?page=contracts|UK-based Grain Association -- has large inventory of contracts, but behind member sign-in wall.
@@ -90,11 +85,10 @@ http://www.rocketlawyer.com/legal-documents-forms.rl|Integrated with service.  P
 http://sagaftra.org/production-center|Screen Actors - documents, forms, signature
 http://sfwa.org/category/sample-contracts/|
 http://supplier-connection.net|Effort by IBM and other major companies to consolidate the application process to become a supplier to a large corporation.
-http://www.techstars.com/docs/|Startup docs from a leading incubator ecosystem
+https://www.cooleygo.com/|Startup docs and more
 https://github.com/twitter/innovators-patent-agreement|Twitter non-assertion patent assignment.
 http://web2rights.org.uk/documents.html#a3|Seems inactive, but a lot of analytical work.
-http://wga.org/content/default.aspx?id=1027|Writers Guild
-http://whichdraft.com/browse_clause_bank.php|
+http://wga.org/content/default.aspx?id=1027|Writers Guild|
 http://library.unidroit.org/English/links_eng.htm|International institute for harmonization, mostly operating by legislative suggestion.
 http://www.uslegalforms.com/|Huge collection.  Paywall.
 
