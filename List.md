@@ -21,7 +21,7 @@ http://www.legalese.com|open source orientation, on GitHub  -
 
 
 Startup| Short Comment|Contact|Longer Comment
----|---|---|---|--
+---|---|---|--
 http://www.effacts.com|integrated automation for complex contracting||
 http://ironcladapp.com/|startup docs and automation, YCombinator|github.com/jboehmig|documents and workflow
 https://www.clerky.com/|Integrated service for startup incorporation docs and filing.
