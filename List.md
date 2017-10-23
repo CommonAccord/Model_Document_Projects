@@ -9,13 +9,14 @@ The ideal for legal forms is that they be unrestricted, curated and rated, updat
 It does NOT include sites focused on laws, regulations, court decisions and other "primary" materials.  These are very important, and an obvious complement that may someday largely merge (they, too, are "authored"), but beyond current scope.  (If you are active in that field and want to carry a thread that direction, please feel free to ping or pull-request us.) 
 
 
-Folks moving stuff on to GitHub: URL|Short Comment|Contact|Longer Comment
+Folks moving legal onto GitHub: URL|Short Comment|Contact|Longer Comment
 ---|---|---|---
 https://github.com/HumanDynamics/|MIT|github.com/dazzaji|Collection of materials
 https://github.com/commonform|Interesting, ambitious effort at both text and automation|
 https://github.com/papertrail/legal-docs||
 https://github.com/UMKC-Law/DataSharingAgreement/tree/master/AgreementTemplates|List of Data Sharing Agreements compiled in connection with project.|github.com/bryangw1
 http://www.legalese.com|open source orientation, on GitHub  -
+https://github.com/cooleyllp/|Series Seed extended
 
 
 
