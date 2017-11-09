@@ -19,6 +19,7 @@ http://www.legalese.com|open source orientation, on GitHub  -
 https://github.com/cooleyllp/|Series Seed extended
 
 Data Standard|Short Comment|Contact|Longer Comment
+---|---|---|---
 http://standard.open-contracting.org/latest/en/ |Govt contracting object model||
 
 
