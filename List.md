@@ -18,7 +18,8 @@ https://github.com/UMKC-Law/DataSharingAgreement/tree/master/AgreementTemplates|
 http://www.legalese.com|open source orientation, on GitHub  -
 https://github.com/cooleyllp/|Series Seed extended
 
-
+Data Standard|Short Comment|Contact|Longer Comment
+http://standard.open-contracting.org/latest/en/ |Govt contracting object model||
 
 
 Startup| Short Comment|Contact|Longer Comment
@@ -35,6 +36,7 @@ http://www.shoobx.com/|Automation, dashboard approach with captive(? correct me!
 <b>Privacy|Short Comment|Longer Comment</b>
 https://docs.google.com/document/d/1GpSEJCe79UqOz3vF_M7XkpB0Da_Up8QsJIWqMciCaW8/edit?pli=1|From http://platformresponsibility.info/?page_id=145|..|.. 
 https://prezi.com/xc8wc2wyaiqv/referentiel-design-your-privacy-des-cgu-aux-cgr/|.. |..|..
+
 
 
 French|Short Comment|Longer Comment
