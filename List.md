@@ -25,6 +25,7 @@ https://github.com/papertrail/legal-docs||
 https://github.com/UMKC-Law/DataSharingAgreement/tree/master/AgreementTemplates|List of Data Sharing Agreements compiled in connection with project.|github.com/bryangw1
 https://github.com/microsoft/Open-Use-of-Data-Agreement|Microsoft Data Use in AI||Available as Prose Object
 https://github.com/cooleyllp/|Series Seed extended||Available as Prose Object
+https://github.com/jurismatic/jurismatic|Starup docs|Partly automated at: http://fr.commonaccord.org/index.php?action=list&file=/FR/Jurismatic/
 
 Data Standard|Short Comment|Contact|Longer Comment
 ---|---|---|---
@@ -33,6 +34,7 @@ http://standard.open-contracting.org/latest/en/ |Govt contracting object model||
 
 Startup| Short Comment|Contact|Longer Comment
 ---|---|---|--
+http://trakti.com/enterprise contract management and blockchain||partner in OpenTrustFabric.org
 http://www.effacts.com|integrated automation for complex contracting||
 http://ironcladapp.com/|startup docs and automation, YCombinator|github.com/jboehmig|documents and workflow
 https://www.clerky.com/|Integrated service for startup incorporation docs and filing.
@@ -45,12 +47,12 @@ http://www.shoobx.com/|Automation, dashboard approach with captive(? correct me!
 <b>Privacy|Short Comment|Longer Comment</b>
 https://docs.google.com/document/d/1GpSEJCe79UqOz3vF_M7XkpB0Da_Up8QsJIWqMciCaW8/edit?pli=1|From http://platformresponsibility.info/?page_id=145|..|.. 
 https://prezi.com/xc8wc2wyaiqv/referentiel-design-your-privacy-des-cgu-aux-cgr/|.. |..|..
-
+https://nonprofitdocuments.law.stanford.edu/documents/|Stanford Law School clinic for not-for-profit businesses||
+https://thegalionproject.com/term-sheet-new-edition|English language term sheet for French startups||
 
 
 French|Short Comment|Longer Comment
 ---|---|---
-https://github.com/jurismatic/jurismatic|Starup docs|Partly automated at: http://fr.commonaccord.org/index.php?action=list&file=/FR/Jurismatic/
 
 
 University Research Related |Types|Other  
