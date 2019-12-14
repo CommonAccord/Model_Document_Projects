@@ -10,8 +10,8 @@ Some indexes of software with legal orientation:
 
 Software Solutions|Short Comment|Contact|Longer Comment
 
-https://techindex.law.stanford.edu/|Stanford's CodeX has indexed many companies and solutions||
-https://software.iaccm.com/|The IACCM has cataloged contract management solutions||
+https://techindex.law.stanford.edu/ |Stanford's CodeX has indexed many companies and solutions||
+https://software.iaccm.com/ |The IACCM has cataloged contract management solutions||
 
 It does NOT include sites focused on laws, regulations, court decisions and other "primary" materials.  These are very important, and an obvious complement that may someday largely merge (they, too, are "authored"), but beyond current scope.  (If you are active in that field and want to carry a thread that direction, please feel free to ping or pull-request us.) 
 
