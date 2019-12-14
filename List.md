@@ -39,7 +39,7 @@ https://www.clerky.com/|Integrated service for startup incorporation docs and fi
 http://valcu.com|Ambitious automation and legal content|incorporation, capitalization, etc.
 http://www.ycombinator.com/resources/#documents|Capitalization, SaaS|
 https://www.cooleygo.com/documents/|Startup docs, automation|from one of the leading Silicon Valley firms
-https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/termsheet-convertible.htm|(and other docs referenced there) Term Sheet generator and other startup docs|From one of the leading Silicon Valley firms
+https://www.wsgr.com/en/services/practice-areas/corporate/emerging-companies.html#term-sheet-generator|(and other docs referenced there) Term Sheet generator and other startup docs|From one of the leading Silicon Valley firms
 http://www.github/SeriesSeed|Seed round financing documents.|From Fenwick & West (been a while since activity at GitHub)
 http://www.shoobx.com/|Automation, dashboard approach with captive(? correct me!) documents.
 <b>Privacy|Short Comment|Longer Comment</b>
