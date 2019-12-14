@@ -14,7 +14,7 @@ These are fully granular and automatable.  See the list at [www.commonaccord.org
 
 Taxonomies:
 
-We note the extreme utility of comprehensive taxonomies.  Two important examples are www.GLEIF.org and www.ACTUSfrf.org. 
+We note the extreme utility of comprehensive taxonomies.  Two important examples are www.GLEIF.org and www.ACTUSfrf.org.  Others include https://www.open-contracting.org/, and www.oasis-open.org.
 
 
 Folks moving legal onto GitHub: URL|Short Comment|Contact|Longer Comment
