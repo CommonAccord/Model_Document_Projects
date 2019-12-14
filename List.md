@@ -9,7 +9,7 @@ The ideal for legal forms is that they be unrestricted, curated and rated, updat
 Some indexes of software with legal orientation:
 
 Software Solutions|Short Comment|Contact|Longer Comment
-
+---|---|---|---
 https://techindex.law.stanford.edu/ |Stanford's CodeX has indexed many companies and solutions||
 https://software.iaccm.com/ |The IACCM has cataloged contract management solutions||
 
