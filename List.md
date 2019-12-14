@@ -14,7 +14,7 @@ These are fully granular and automatable.  See the list at [www.commonaccord.org
 
 Taxonomies:
 
-We note the extreme utility of comprehensive taxonomies.  Two important examples are www.GLEIF.org and www.ACTUSfrf.org.  Others include https://www.open-contracting.org/, and www.oasis-open.org.
+We note the extreme utility of comprehensive taxonomies.  Two important examples are www.GLEIF.org and www.ACTUSfrf.org.  
 
 
 Folks moving legal onto GitHub: URL|Short Comment|Contact|Longer Comment
@@ -23,8 +23,8 @@ https://github.com/HumanDynamics/|MIT|github.com/dazzaji|Collection of materials
 https://github.com/commonform|Interesting, ambitious effort at both text and automation|
 https://github.com/papertrail/legal-docs||
 https://github.com/UMKC-Law/DataSharingAgreement/tree/master/AgreementTemplates|List of Data Sharing Agreements compiled in connection with project.|github.com/bryangw1
-http://www.legalese.com|open source orientation, on GitHub  -
-https://github.com/cooleyllp/|Series Seed extended
+https://github.com/microsoft/Open-Use-of-Data-Agreement|Microsoft Data Use in AI||Available as Prose Object
+https://github.com/cooleyllp/|Series Seed extended||Available as Prose Object
 
 Data Standard|Short Comment|Contact|Longer Comment
 ---|---|---|---
