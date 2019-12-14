@@ -1,12 +1,20 @@
-This is begun from a list that was at beta.commonaccord.org (an earlier CommonAccord version based on Mediawiki). 
+This is a list of legal forms and related materials that can contribute to codification. 
 
 This list is arbitrary and incomplete.  It should be expressed as a database - perhaps a graph database.  The goal here is to start.  Note, too, that it is so far nearly all in English and very US-centric.  There is a rest of world out there.
 
-Listing here does not indicate approval, neither by us nor by the targets.  
+Listing here does not indicate approval, neither by us nor by the targets.
 
 The ideal for legal forms is that they be unrestricted, curated and rated, updated (maintained), with traceable origins and versions, links to authors, continuing life, strong communities of contributors.  Forums instead of forms. Like open source software.
 
 It does NOT include sites focused on laws, regulations, court decisions and other "primary" materials.  These are very important, and an obvious complement that may someday largely merge (they, too, are "authored"), but beyond current scope.  (If you are active in that field and want to carry a thread that direction, please feel free to ping or pull-request us.) 
+
+Prose Objects:
+
+These are fully granular and automatable.  See the list at [www.commonaccord.org/index.php?action=list&file=S/Index/]
+
+Taxonomies:
+
+We note the extreme utility of comprehensive taxonomies.  Two important examples are www.GLEIF.org and www.ACTUSfrf.org. 
 
 
 Folks moving legal onto GitHub: URL|Short Comment|Contact|Longer Comment
