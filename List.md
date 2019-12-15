@@ -13,15 +13,14 @@ Software Solutions|Short Comment|Contact|Longer Comment
 https://techindex.law.stanford.edu/ |Stanford's CodeX has indexed many companies and solutions||
 https://software.iaccm.com/ |The IACCM has cataloged contract management solutions||
 
-It does NOT include sites focused on laws, regulations, court decisions and other "primary" materials.  These are very important, and an obvious complement that may someday largely merge (they, too, are "authored"), but beyond current scope.  (If you are active in that field and want to carry a thread that direction, please feel free to ping or pull-request us.) 
-
 Prose Objects:
 
-These are fully granular and automatable.  See the list at [www.commonaccord.org/index.php?action=list&file=S/Index/]
+These are fully granular and automatable.  See the lists at [www.commonaccord.org/index.php?action=list&file=S/Index/]
+and documents at [www.commonaccord.org/index.php?action=list&file=G/].
 
 Taxonomies:
 
-We note the extreme utility of comprehensive taxonomies.  Two important examples are www.GLEIF.org and www.ACTUSfrf.org.  
+We note the extreme utility of comprehensive taxonomies.  Two important examples are www.GLEIF.org and www.ACTUSfrf.org. GLEIF could become one comprehensive vector in the graph for identity of business entities, while ACTUS could structure all of financial arrangements.  These are powerful ideas.  Another example is a comprehensive taxonomy for "legal matters." https://www.sali.org/. This is a less direct layer, but has the enormous virtue of trying to cover the entire scope of legal. 
 
 
 Folks moving legal onto GitHub: URL|Short Comment|Contact|Longer Comment
@@ -37,6 +36,7 @@ https://github.com/jurismatic/jurismatic|Starup docs|Partly automated at: http:/
 Data Standard|Short Comment|Contact|Longer Comment
 ---|---|---|---
 http://standard.open-contracting.org/latest/en/ |Govt contracting object model||
+https://news.microsoft.com/datainnovation/|includes a listing of data sources and projects||
 
 
 Startup| Short Comment|Contact|Longer Comment
@@ -118,3 +118,4 @@ Some other Lists of Lists|||
 ----|---|---
 http://www.personal.psu.edu/rcr5122/Departments.html|From @richard1000
 http://www.ittig.cnr.it/Ricerca/ProgettiEuropei.php|From @richard1000
+
