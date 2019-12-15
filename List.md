@@ -15,8 +15,7 @@ https://software.iaccm.com/ |The IACCM has cataloged contract management solutio
 
 Prose Objects:
 
-These are fully granular and automatable.  See the lists at [www.commonaccord.org/index.php?action=list&file=S/Index/]
-and documents at [www.commonaccord.org/index.php?action=list&file=G/].
+These are fully granular and automatable.  See the lists at [www.commonaccord.org/index.php?action=list&file=S/Index/], documents at [www.commonaccord.org/index.php?action=list&file=G/] and source at github.com/commonaccord/.
 
 Taxonomies:
 
