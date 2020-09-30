@@ -11,15 +11,15 @@ Some indexes of software with legal orientation:
 Software Solutions|Short Comment|Contact|Longer Comment
 ---|---|---|---
 https://techindex.law.stanford.edu/ |Stanford's CodeX has indexed many companies and solutions||
-https://software.iaccm.com/ |The IACCM has cataloged contract management solutions||
+https://software.worldcc.com/ |The World Commerce & Contracting has a catalog of contract management solutions||
 
 Prose Objects:
 
-These are fully granular and automatable.  See the lists at [www.commonaccord.org/index.php?action=list&file=S/Index/], documents at [www.commonaccord.org/index.php?action=list&file=G/] and source at [www.github.com/commonaccord/].
+These are fully granular and automatable.  See the lists at [www.commonaccord.org/index.php?action=list&file=S/Index/], documents at [www.commonaccord.org/index.php?action=list&file=G/] and source at [www.github.com/commonaccord/Cmacc-Org].
 
 Taxonomies:
 
-We note the extreme utility of comprehensive taxonomies.  Two important examples are www.GLEIF.org and www.ACTUSfrf.org. GLEIF could become one comprehensive vector in the graph for identity of business entities, while ACTUS could structure all of financial arrangements.  These are powerful ideas.  Another example is a comprehensive taxonomy for "legal matters." https://www.sali.org/. This is a less direct layer, but has the enormous virtue of trying to cover the entire scope of legal. 
+We note the extreme utility of comprehensive taxonomies.  Two important examples are www.GLEIF.org and www.ACTUSfrf.org. GLEIF could become one comprehensive dimension in the graph for identity of business entities, while ACTUS could structure financial arrangements.  These are powerful ideas.  Another example is a comprehensive taxonomy for "legal matters." https://www.sali.org/. This is a less direct layer, but has the enormous virtue of trying to cover the entire scope of legal. 
 
 
 Folks moving legal onto GitHub: URL|Short Comment|Contact|Longer Comment
